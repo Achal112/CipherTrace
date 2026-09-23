@@ -1,0 +1,4 @@
+fir_id,person_id,location,case_type,date
+F001,P001,Nagpur,Financial Fraud,2026-08-10
+F002,P003,Mumbai,Financial Fraud,2026-08-11
+F003,P004,Nagpur,Cyber Fraud,2026-08-15

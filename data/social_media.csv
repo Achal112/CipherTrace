@@ -1,0 +1,6 @@
+record_id,person_id,platform,linked_person,date
+S001,P001,DemoSocial,P002,2026-08-12
+S002,P002,DemoSocial,P003,2026-08-12
+S003,P003,DemoSocial,P004,2026-08-13
+S004,P004,DemoSocial,P006,2026-08-14
+S005,P005,DemoSocial,P003,2026-08-15
